@@ -1,0 +1,164 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/*main head*/
+#pet{
+    margin-left: 30px;
+    padding-top: 30px;
+    font-size: 50px;
+}
+
+#button{
+    padding: 20px;
+
+    padding-bottom: 15px;
+    margin-left: 10px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: large;
+    font-weight: 600;
+    margin-top: 20px;
+    border: none;
+    background-color: white;
+}
+
+#button:hover{
+    color: rgb(21, 194, 21) ;
+    transition: 0.5s ease;
+    background-color: rgba(128, 128, 128, 0.199);
+}
+#contact{
+    background-color: rgb(21, 194, 21) ;
+    margin-left: 20px;
+    font-size: large;
+    color: black;
+    margin-top: 20px;
+    padding: 20px;
+    margin-right: 0;
+    border: none;
+}
+
+#mainhead{
+    font-size: 60px;
+    padding-left: 40px;
+}
+
+#mainpara{
+    padding-left: 40px;
+    font-size: 30px;
+    color: white;
+}
+
+#readmore{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: 60px;
+    background-color: transparent;
+}
+#readmore:hover{
+    background-color: rgba(0, 0, 0, 0.144);
+}
+/*vision*/
+#vissionmission{
+    background-color:rgb(0, 238, 91) ;
+    padding-left:100px; 
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;   
+}
+
+
+/*service*/
+
+
+#servicepara{
+    font-size: x-large;
+    margin-left: 80px;
+}
+
+#servicehead{
+    font-size: 50px;
+    margin-left: 80px;
+
+}
+
+/*about*/
+#about{
+    background-color: rgba(128, 128, 128, 0.151);
+    border: 1px solid rgba(0, 0, 0, 0.384);
+    border-radius: 10px;
+}
+
+#about:hover{
+    background-color: rgba(128, 128, 128, 0.603);
+    transition: 0.5s ease;
+}
+
+
+h4{
+    font-size: x-large;
+    font-family: Impact,  'Arial Narrow Bold', sans-serif;
+}
+
+
+/*product*/
+#productpara{
+    font-size: x-large;
+    margin-left: 80px;
+}
+
+#producthead{
+    font-size: 50px;
+    margin-left: 80px;
+}
+
+/*offer*/
+#offerparamain{
+    font-size: large;
+    padding-left: 100px;
+}
+#offerhead{
+    font-size: 60px;
+    padding-left: 100px;
+    color: white;
+}
+
+#offerpara{
+    font-size:x-large;
+    color: white;
+}
+
+#offerbutton{
+    background-color: white;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: 500;
+
+}
+/*subcription*/
+
+#subscription{
+    border: 1px solid black;
+    padding: 80px;
+    border-radius: 10px;
+}
+
+#prices{
+    background-color: lightgreen;
+    
+}
+/*footer*/
+
+#links{
+    color: white;
+}
+#links:hover{
+    color: lightgreen;
+    transition: 0.5s ease;
+}
